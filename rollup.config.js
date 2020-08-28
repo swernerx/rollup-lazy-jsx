@@ -18,5 +18,5 @@ export default {
   plugins: [
     jsxPlugin()
   ],
-  external: [ 'external-ui-lib' ]
+  external: [ 'company-header' ]
 };
